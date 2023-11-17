@@ -1,3 +1,6 @@
 out/
 logs/
 __pycache__/
+rollerblade/
+rollerblade.zip
+.DS_Store
